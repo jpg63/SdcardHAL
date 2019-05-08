@@ -1,0 +1,16 @@
+{
+  "name": "sdcardHAL",
+  "description": "Library HAL for sdcard",
+  "keywords": "sdcardHAL",
+  "authors": {
+    "name": "JPG63",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpg63/SdcardHAL.git"
+  },
+  "version": "1.0.0",
+  "framework": "arduino",
+  "platforms": ""
+}
